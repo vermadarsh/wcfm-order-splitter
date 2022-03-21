@@ -7,7 +7,7 @@
  * @package           WCFM_Order_Splitter
  *
  * @wordpress-plugin
- * Plugin Name:       WCFM Order Splitter
+ * Plugin Name:       WCFM Order Splitter Updated
  * Plugin URI:        https://github.com/vermadarsh/
  * Description:       This plugin is responsible for splitting orders from from multiple vendors.
  * Version:           1.0.0
